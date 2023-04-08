@@ -23,3 +23,20 @@
 .primary-container {
   background-color: #0b69ff;
 }
+.image {
+  height: 30px;
+  width: 30px;
+}
+.success-container {
+  background-color: #2dca73;
+}
+.warning-container {
+  background-color: #ffb800;
+}
+.error-container {
+  background-color: #ff0b37;
+}
+.message {
+  font-size: 15px;
+  color: #ffffff;
+}
